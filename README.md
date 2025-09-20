@@ -2,7 +2,7 @@
  
  This repository will be used as a practice for the Codedex Git course.
  
- Important Git commands:
+ ## Important Git commands:
  - git init
  - git remote add origin <repository_url>
  - git branch -M main
