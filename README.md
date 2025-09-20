@@ -10,3 +10,8 @@
  - git commit -m 'Your commit message here!'
  - git status
  - git push -u origin main
+ - git push
+ - git clone <repository_url>
+ - git branch new-branch-name
+ - git switch new-branch-name
+ - git checkout -b new-branch-name
