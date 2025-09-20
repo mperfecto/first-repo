@@ -1,4 +1,4 @@
-## Git Practice from Codedex
+# Git Practice from Codedex
  
  This repository will be used as a practice for the Codedex Git course.
  
