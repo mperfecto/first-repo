@@ -15,3 +15,4 @@
  - git branch new-branch-name
  - git switch new-branch-name
  - git checkout -b new-branch-name
+ - git pull
